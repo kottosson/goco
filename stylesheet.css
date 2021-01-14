@@ -12,17 +12,18 @@ body {
 }
 .contentContainer {
     margin: auto;
+    align-items: center;
+    left: 10px;
 }
 .goco {
     color: rgb(126, 126, 128);
     font-family: 'Roboto', sans-serif;
     font-size: 40px;
-    margin: auto;
+    margin:0;
 }
 
 .contact {
     color: rgb(126, 126, 128);
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
-    margin-left: auto;
 }
