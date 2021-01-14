@@ -10,9 +10,19 @@ body {
     width: 100%;
     display: flex;
 }
+.contentContainer {
+    margin: auto;
+}
 .goco {
     color: rgb(126, 126, 128);
     font-family: 'Roboto', sans-serif;
     font-size: 40px;
     margin: auto;
+}
+
+.contact {
+    color: rgb(126, 126, 128);
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin-left: auto;
 }
